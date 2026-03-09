@@ -54,19 +54,6 @@ Secure login page for administrators to access the system.
 
 ---
 
-## Project StructureAI-Resume-Screening-System
-│
-├── backend
-├── frontend
-├── images
-│ ├── login.png
-│ ├── resume_upload.png
-│ └── dashboard.png
-│
-└── README.md
-
----
-
 ## Application Screenshots
 
 ### Login Page
