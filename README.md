@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Resume Screening System
 
 ## Description
@@ -23,3 +24,7 @@ python manage.py runserver
 
 Frontend:
 Open index.html
+=======
+# AI-Resume-Screening-System
+AI-powered Resume Screening System using Django and NLP to automatically analyze and rank candidates based on job descriptions.
+>>>>>>> 929b11a966c5b4d725e67104f790268825f88dc3
