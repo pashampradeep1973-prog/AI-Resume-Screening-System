@@ -63,7 +63,7 @@ Secure login page for administrators to access the system.
 ![Resume Upload](https://github.com/pashampradeep1973-prog/AI-Resume-Screening-System/blob/main/dashboard.png?raw=true)
 
 ### Candidate Ranking Analysis
-![Dashboard](images/analysis.png)
+![Dashboard](https://github.com/pashampradeep1973-prog/AI-Resume-Screening-System/blob/main/dashboard.png?raw=true)
 
 ---
 
