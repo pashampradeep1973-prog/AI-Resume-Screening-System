@@ -60,7 +60,7 @@ Secure login page for administrators to access the system.
 ![Login Page](https://github.com/pashampradeep1973-prog/AI-Resume-Screening-System/blob/main/login.png?raw=true)
 
 ### Resume Upload and Job Description Page
-![Resume Upload](https://github.com/pashampradeep1973-prog/AI-Resume-Screening-System/blob/main/dashboard.png?raw=true)
+![Resume Upload](https://github.com/pashampradeep1973-prog/AI-Resume-Screening-System/blob/main/resume_upload.png?raw=true)
 
 ### Candidate Ranking Analysis
 ![Dashboard](https://github.com/pashampradeep1973-prog/AI-Resume-Screening-System/blob/main/dashboard.png?raw=true)
