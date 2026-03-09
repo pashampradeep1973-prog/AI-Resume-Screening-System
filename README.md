@@ -70,7 +70,7 @@ Secure login page for administrators to access the system.
 ## Application Screenshots
 
 ### Login Page
-![Login Page](images/login.png)
+![Login Page](https://github.com/pashampradeep1973-prog/AI-Resume-Screening-System/blob/main/login.png?raw=true)
 
 ### Resume Upload and Job Description Page
 ![Resume Upload](images/resume_upload.png)
