@@ -31,9 +31,7 @@ Secure login page for administrators to access the system.
 ## Technologies Used
 
 ### Frontend
-- HTML
-- CSS
-- JavaScript
+- React.js
 
 ### Backend
 - Python
